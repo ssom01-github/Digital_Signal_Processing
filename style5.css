@@ -1,0 +1,67 @@
+/* #css for app1.py */
+
+
+div.css-1629p8f.e16nr0p31{
+    background-color:  rgb(171, 212, 141);
+   
+    padding-left: 60px;
+    
+    border: 2px solid black;
+}
+#signal-processing{
+    margin-top: -15px;
+   
+}
+div.css-5rimss.e16nr0p34{
+    margin-top: -30px;
+}
+div.css-1629p8f.e16nr0p31 h3{
+    font-size: 14px;
+    margin-left: -40px;
+    margin-top: 5px;
+}
+span.css-10trblm.e16nr0p30{
+    padding-left: 150px;
+    font-size: 30px;
+    margin-left: -30px;
+}
+
+span.css-10trblm.e16nr0p30{
+    font-size: 35px;
+}
+div.css-1ec096l.edw49t14{
+    margin-top: 10px;
+}
+table.css-165ax5l.edw49t13{
+    width: 50%;
+    margin-left: 180px;
+}
+div.css-16idsys.e16nr0p34{
+    background-color: rgb(67, 100, 67);
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    margin: 15px;
+    box-shadow: 4px 6px rgb(29, 29, 29);
+    margin-top: 10px;
+}
+div.css-16idsys.e16nr0p34{
+    margin-top: 3px;
+}
+.st-dz,.st-e6,.st-bt,.st-ae,.st-af,.st-ag,.st-ah,.st-ai,.st-aj,.st-bg,.st-e7{
+    font-size: 20px;
+}
+div.stMarkdown{
+    margin-top: 10px;
+}
+/* .st-bt {
+    flex-direction: none;
+} */
+
+
+.st-c2, .st-e8, .st-dr, .st-ds, .st-dt, .st-du, .st-ay, .st-b3, .st-dv, .st-dw, .st-dx, .st-b5, .st-dy, .st-c9, .st-cl, .st-dz, .st-e0, .st-d1, .st-b1, .st-bs{
+ flex-direction: row;
+}
+.css-5rimss.e16nr0p34{
+    margin-top: 15px;
+}
