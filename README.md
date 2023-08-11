@@ -13,7 +13,6 @@ To use this web application, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 git clone https://github.com/ssom01-github/Digital_Signal_Processing.git
-
 2. cd signal-processing-with_python
 
 ### usage
